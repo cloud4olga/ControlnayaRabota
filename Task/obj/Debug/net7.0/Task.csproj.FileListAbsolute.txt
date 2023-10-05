@@ -1,0 +1,15 @@
+/Users/olkash/Desktop/ControlnayaRabota/ControlnayaRabota/Task/bin/Debug/net7.0/Task
+/Users/olkash/Desktop/ControlnayaRabota/ControlnayaRabota/Task/bin/Debug/net7.0/Task.deps.json
+/Users/olkash/Desktop/ControlnayaRabota/ControlnayaRabota/Task/bin/Debug/net7.0/Task.runtimeconfig.json
+/Users/olkash/Desktop/ControlnayaRabota/ControlnayaRabota/Task/bin/Debug/net7.0/Task.dll
+/Users/olkash/Desktop/ControlnayaRabota/ControlnayaRabota/Task/bin/Debug/net7.0/Task.pdb
+/Users/olkash/Desktop/ControlnayaRabota/ControlnayaRabota/Task/obj/Debug/net7.0/Task.csproj.AssemblyReference.cache
+/Users/olkash/Desktop/ControlnayaRabota/ControlnayaRabota/Task/obj/Debug/net7.0/Task.GeneratedMSBuildEditorConfig.editorconfig
+/Users/olkash/Desktop/ControlnayaRabota/ControlnayaRabota/Task/obj/Debug/net7.0/Task.AssemblyInfoInputs.cache
+/Users/olkash/Desktop/ControlnayaRabota/ControlnayaRabota/Task/obj/Debug/net7.0/Task.AssemblyInfo.cs
+/Users/olkash/Desktop/ControlnayaRabota/ControlnayaRabota/Task/obj/Debug/net7.0/Task.csproj.CoreCompileInputs.cache
+/Users/olkash/Desktop/ControlnayaRabota/ControlnayaRabota/Task/obj/Debug/net7.0/Task.dll
+/Users/olkash/Desktop/ControlnayaRabota/ControlnayaRabota/Task/obj/Debug/net7.0/refint/Task.dll
+/Users/olkash/Desktop/ControlnayaRabota/ControlnayaRabota/Task/obj/Debug/net7.0/Task.pdb
+/Users/olkash/Desktop/ControlnayaRabota/ControlnayaRabota/Task/obj/Debug/net7.0/Task.genruntimeconfig.cache
+/Users/olkash/Desktop/ControlnayaRabota/ControlnayaRabota/Task/obj/Debug/net7.0/ref/Task.dll
